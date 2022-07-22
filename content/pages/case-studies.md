@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Case Studies
 uid: cec9490c-32f4-df97-aa81-c0688c5c944a
 ---
