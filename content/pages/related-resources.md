@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This page contains links to references on inventions and patents, and
+  course material on other sites, including lecture videos and student work from past
+  years.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources

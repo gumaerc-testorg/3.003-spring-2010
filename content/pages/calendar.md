@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This calendar section provides the schedule of lecture topics, guest
+  lectures, labs, and key dates for assignments.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -241,7 +243,7 @@ Project 2A: Solar Cell Materials; assignment of teams
 {{< tdopen >}}
 
 
-Guest Lecture: Prof. Toshihiko Koseki ([PDF]({{< baseurl >}}/resources/mit3_003s10_bio18)), "Progress and Future of Structural Steels."
+Guest Lecture: Prof. Toshihiko Koseki ({{% resource_link da6cf164-1c74-4d4e-53bb-d67d49be1dc4 "PDF" %}}), "Progress and Future of Structural Steels."
 
 Project 1B: Materials Selection
 
@@ -281,7 +283,7 @@ Project 1C: Engineering the Future of Solar Electricity
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Guest Lecture: Prof. Akira Toriumi ([PDF]({{< baseurl >}}/resources/mit3_003s10_bio21)), "Semiconductor Technology Evolution and Generalized Moore's Law."
+Guest Lecture: Prof. Akira Toriumi ({{% resource_link 7980b909-9802-8c26-48a9-a4e2708380df "PDF" %}}), "Semiconductor Technology Evolution and Generalized Moore's Law."
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -311,7 +313,7 @@ Project 2B report due
 23
 {{< tdclose >}}
 {{< tdopen >}}
-Guest Lecture: Prof. Kazumi Wada ([PDF]({{< baseurl >}}/resources/mit3_003s10_bio23)), "Solar Cell."
+Guest Lecture: Prof. Kazumi Wada ({{% resource_link ffffa739-c039-9533-effb-d1c16d3b6280 "PDF" %}}), "Solar Cell."
 {{< tdclose >}}
 {{< tdopen >}}
 Case Study 4 report due
