@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides an overview of the case studies and project reports
+  required for the course along with resources and examples of student work.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Case Studies
@@ -43,7 +45,7 @@ Resources
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-An Ethical Engineer? ([PDF]({{< baseurl >}}/resources/mit3_003s10_cs1))
+An Ethical Engineer? ({{% resource_link b59685c6-55d3-1e24-ca19-35d667177920 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Pinker, Steven. "[The Moral Instinct](http://www.nytimes.com/2008/01/13/magazine/13Psychology-t.html)." New York Times, January 13, 2008.
@@ -52,7 +54,7 @@ Pinker, Steven. "[The Moral Instinct](http://www.nytimes.com/2008/01/13/magazine
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Big Infrastructure Engineering ([PDF]({{< baseurl >}}/resources/mit3_003s10_cs2))
+Big Infrastructure Engineering ({{% resource_link 917c0172-73f9-ba17-dff5-642e55792ac4 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -61,7 +63,7 @@ Big Infrastructure Engineering ([PDF]({{< baseurl >}}/resources/mit3_003s10_cs2)
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Social Construction of TV History ([PDF]({{< baseurl >}}/resources/mit3_003s10_cs3))
+Social Construction of TV History ({{% resource_link 856db075-e587-a677-2788-2b21118d3ccb "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -70,16 +72,16 @@ Social Construction of TV History ([PDF]({{< baseurl >}}/resources/mit3_003s10_c
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Semiconductors and Learning Curves; Steel Technology and Big Infrastructure ([PDF]({{< baseurl >}}/resources/mit3_003s10_cs4))
+Semiconductors and Learning Curves; Steel Technology and Big Infrastructure ({{% resource_link d9a10d0f-517f-4e39-d2d0-ee84f69da437 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
 
 ### Student Work
 
-"Semiconductors and Learning Curves." ([PDF]({{< baseurl >}}/resources/mit3_003s10_cs4_sw1))
+"Semiconductors and Learning Curves." ({{% resource_link fe179e1b-0e04-0a41-4b2c-8bbf8757d2ff "PDF" %}})
 
-"Steel Technology and Big Infrastructure." ([PDF]({{< baseurl >}}/resources/mit3_003s10_cs4_sw2))
+"Steel Technology and Big Infrastructure." ({{% resource_link 23e614fd-39be-333f-6c9a-de7f71bca18a "PDF" %}})
 
 
 {{< tdclose >}}

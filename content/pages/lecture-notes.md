@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics along with related
+  slides, handouts, and readings.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -33,9 +35,9 @@ Introduction to course, content, process, solar energy
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mit3_003s10_lec01))
+({{% resource_link 9847a758-bd6a-533c-2d47-e82aea7e8730 "PDF" %}})
 
-Handout ([PDF]({{< baseurl >}}/resources/mit3_003s10_notes01))
+Handout ({{% resource_link add86e3b-36b8-c605-66ec-6b64aaaff22b "PDF" %}})
 
 
 {{< tdclose >}}
@@ -61,7 +63,7 @@ Lab 1: Index of Refraction
 Case Study 1: An Ethical Engineer
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit3_003s10_lec03))
+({{% resource_link e0f9ab6a-b444-3e76-231b-ef8b681252ef "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +99,7 @@ Lab 3: Measure the Speed of Light
 Photons, Semiconductors, and Energy
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit3_003s10_lec06))
+({{% resource_link fe54d939-ad83-4bec-7b08-13c71312620d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -109,7 +111,7 @@ Photons, Semiconductors, and Energy
 Guest Lecture: [Fred Salvucci](http://cee.mit.edu/salvucci), "History of Boston Transportation, 1630-2007."
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.5MB]({{< baseurl >}}/resources/mit3_003s10_lec07)) (Courtesy of Frederick Salvucci. Used with permission.)
+({{% resource_link 613e1d8a-1444-88eb-ec9d-4b8ed1da72e1 "PDF - 1.5MB" %}}) (Courtesy of Frederick Salvucci. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -121,7 +123,7 @@ Guest Lecture: [Fred Salvucci](http://cee.mit.edu/salvucci), "History of Boston 
 The Solar Cell Lecture
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit3_003s10_lec08))
+({{% resource_link 09b7a1c9-b2df-fc5d-ec4e-4b2b5b6352e5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -133,7 +135,7 @@ The Solar Cell Lecture
 Guest Lecture: [Prof. Eugene Fitzgerald](http://dmse.mit.edu/faculty/profile/fitzgerald), "Platforms and Learning Curves."
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.9MB]({{< baseurl >}}/resources/mit3_003s10_lec09)) (Courtesy of Eugene Fitzgerald. Used with permission.)
+({{% resource_link 0bca12c1-3545-7171-bb56-511be51319fd "PDF - 1.9MB" %}}) (Courtesy of Eugene Fitzgerald. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -175,7 +177,7 @@ Lab 4: Simulation of Solar Cells
 Guest Lecture: Prof. Randolph Kirchain, "Moving Towards Sustainable Materials Use."
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.2MB]({{< baseurl >}}/resources/mit3_003s10_lec12)) (Courtesy of Randolph Kirchain. Used with permission.)
+({{% resource_link b17eb117-f53b-40f7-b6f4-34febb9ab802 "PDF - 1.2MB" %}}) (Courtesy of Randolph Kirchain. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -205,7 +207,7 @@ Reading: Slides 15-27 in "Year 11 Preliminary Engineering Studies Focus Module: 
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit3_003s10_lec14))
+({{% resource_link 3c7e6d86-6aff-5ac3-5962-6da3b42c3325 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -231,7 +233,7 @@ Project 1A: Electricity Generation System Constraints
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mit3_003s10_lec16))
+({{% resource_link 5cf25ab5-6810-67ae-4011-9a88e85f2dad "PDF" %}})
 
 
 {{< tdclose >}}
@@ -256,14 +258,14 @@ Project 2A: Solar cell materials; assignment of teams
 {{< tdopen >}}
 
 
-Guest Lecture: Prof. Toshihiko Koseki ([PDF]({{< baseurl >}}/resources/mit3_003s10_bio18)), "Progress and Future of Structural Steels."
+Guest Lecture: Prof. Toshihiko Koseki ({{% resource_link da6cf164-1c74-4d4e-53bb-d67d49be1dc4 "PDF" %}}), "Progress and Future of Structural Steels."
 
 Project 1B: Materials Selection
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit3_003s10_lec18))
+({{% resource_link a0ff96e1-65b2-9ff9-8e05-0da960796106 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -287,7 +289,7 @@ Project 2B: Solar Cell Performance
 Project 1C: Engineering the Future of Solar Electricity
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit3_003s10_lec20))
+({{% resource_link c5a3a821-f64a-dfa7-7a87-e0d38b6fe0f7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -296,7 +298,7 @@ Project 1C: Engineering the Future of Solar Electricity
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Guest Lecture: Prof. Akira Toriumi ([PDF]({{< baseurl >}}/resources/mit3_003s10_bio21)), "Semiconductor Technology Evolution and Generalized Moore's Law."
+Guest Lecture: Prof. Akira Toriumi ({{% resource_link 7980b909-9802-8c26-48a9-a4e2708380df "PDF" %}}), "Semiconductor Technology Evolution and Generalized Moore's Law."
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -322,7 +324,7 @@ Class discussion of draft written reports
 23
 {{< tdclose >}}
 {{< tdopen >}}
-Guest Lecture: Prof. Kazumi Wada ([PDF]({{< baseurl >}}/resources/mit3_003s10_bio23)), "Solar Cell."
+Guest Lecture: Prof. Kazumi Wada ({{% resource_link ffffa739-c039-9533-effb-d1c16d3b6280 "PDF" %}}), "Solar Cell."
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -363,7 +365,7 @@ Editing of report for final project
 Guest Lecture: [Prof. Christopher Weaver](http://www.convergenceculture.org/aboutc3/people.php#chris), "How To Be a Big Engineer and What You Can Do for Society."
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 4.8MB]({{< baseurl >}}/resources/mit3_003s10_lec26)) (Courtesy of Christopher Weaver. Used with permission.)
+({{% resource_link a86a1083-bc4c-7ddb-7b12-02d9639be4ae "PDF - 4.8MB" %}}) (Courtesy of Christopher Weaver. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
