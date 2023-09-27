@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides an overview of the final report required for the
+  course, four project activities, and examples of student work.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -47,29 +49,14 @@ STUDENT WORK
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Project 1A: Electricity Generation System Constraints ([PDF]({{< baseurl >}}/resources/mit3_003s10_project1a))
+Project 1A: Electricity Generation System Constraints ({{% resource_link 69d1b19f-4280-8316-8d56-ace927cbef78 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Group 1 ([PDF]({{< baseurl >}}/resources/mit3_003s10_proj1a_sw1))
+Group 1 ({{% resource_link b8420369-cf4f-da6b-2ecc-b640cb64b4a5 "PDF" %}})
 
-Group 2 ([PDF]({{< baseurl >}}/resources/mit3_003s10_proj1a_sw2))
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-Project 1B: Materials Selection ([PDF]({{< baseurl >}}/resources/mit3_003s10_project1b))
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-Group 1 ([PDF]({{< baseurl >}}/resources/mit3_003s10_project1b_sw1))
-
-Group 2 ([PDF]({{< baseurl >}}/resources/mit3_003s10_proj1b_sw2))
+Group 2 ({{% resource_link 012ff3ec-16d7-e9fd-c9c1-714f143ab4da "PDF" %}})
 
 
 {{< tdclose >}}
@@ -77,18 +64,14 @@ Group 2 ([PDF]({{< baseurl >}}/resources/mit3_003s10_proj1b_sw2))
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-
-
-Project 1C: Solar Cell Design and Manufacturing Platform ([PDF]({{< baseurl >}}/resources/mit3_003s10_project1c))
-
-
+Project 1B: Materials Selection ({{% resource_link 9b509325-9ce4-3e23-cc1d-520307b46f0d "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Group 1 ([PDF]({{< baseurl >}}/resources/mit3_003s10_project1c_sw1))
+Group 1 ({{% resource_link c8658b6e-f4c8-9619-5182-84ef332afeb5 "PDF" %}})
 
-Group 2 ([PDF]({{< baseurl >}}/resources/mit3_003s10_project1c_sw2))
+Group 2 ({{% resource_link 6b1d17d9-4360-1398-b467-61fbbc0785bb "PDF" %}})
 
 
 {{< tdclose >}}
@@ -98,11 +81,30 @@ Group 2 ([PDF]({{< baseurl >}}/resources/mit3_003s10_project1c_sw2))
 {{< tdopen >}}
 
 
-Project 1D: Final Poster ([PDF]({{< baseurl >}}/resources/mit3_003s10_proj1d_chart)), Presentation, and Report
+Project 1C: Solar Cell Design and Manufacturing Platform ({{% resource_link 6e5d31ab-9eb8-a0d8-167a-19e1eb0ab9b3 "PDF" %}})
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Group 1 ({{% resource_link 88cf815c-bc67-bda8-5837-4a3aef26af41 "PDF" %}})
+
+Group 2 ({{% resource_link 7e035f41-b395-1507-2dcd-fe0aa7f768e9 "PDF" %}})
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Project 1D: Final Poster ({{% resource_link ec289fc3-53fe-cd12-9c1c-e5ef590aaab3 "PDF" %}}), Presentation, and Report
 
 ### Background
 
-"Future of Solar Electricity." ([PDF]({{< baseurl >}}/resources/mit3_003s10_solar_future)). Adapted from _High Impact Supply Chain R&D for PV Technologies and Systems_. U.S. Department of Energy (April 21, 2010): DE-FOA-0000234.
+"Future of Solar Electricity." ({{% resource_link 0de15732-b796-7a79-6b7c-e78c082bd49b "PDF" %}}). Adapted from _High Impact Supply Chain R&D for PV Technologies and Systems_. U.S. Department of Energy (April 21, 2010): DE-FOA-0000234.
 
 
 {{< tdclose >}}
@@ -111,33 +113,33 @@ Project 1D: Final Poster ([PDF]({{< baseurl >}}/resources/mit3_003s10_proj1d_cha
 
 "Solar Electricity: Problem, Constraints and Solutions."
 
-*   Poster ([PDF]({{< baseurl >}}/resources/mit3_003s10_swe_chart))
-*   Presentation ([PDF]({{< baseurl >}}/resources/mit3_003s10_swe_pres))
-*   Report ([PDF]({{< baseurl >}}/resources/mit3_003s10_swe_report))
+*   Poster ({{% resource_link e844e4fb-25e8-943d-141e-c1f0d4e9510d "PDF" %}})
+*   Presentation ({{% resource_link bac14080-4bcf-7ef8-34cc-3cc7692def52 "PDF" %}})
+*   Report ({{% resource_link 3060b720-f7b2-52c5-b9d3-65b6037378bb "PDF" %}})
 
 "Local Generation of Solar Electricity: Problem and Constraints for the Emergence of Significant Capacity."
 
-*   Poster ([PDF]({{< baseurl >}}/resources/mit3_003s10_swd_chart))
-*   Presentation ([PDF]({{< baseurl >}}/resources/mit3_003s10_swd_pres))
-*   Report ([PDF]({{< baseurl >}}/resources/mit3_003s10_swd_report))
+*   Poster ({{% resource_link 22afa175-d9a8-7b8b-8ff1-af5411bc0914 "PDF" %}})
+*   Presentation ({{% resource_link d2b2f335-6098-ce61-b24f-aac4181cea9a "PDF" %}})
+*   Report ({{% resource_link 617d25af-b5f1-40e9-020e-504ebd37e8ed "PDF" %}})
 
 "Design of CdTe Thin Film Solar Cell and the Basis of its Emergence as a Significant Factor in Grid Electricity Capacity."
 
-*   Poster (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_003s10_swc_chart))
-*   Presentation ([PDF]({{< baseurl >}}/resources/mit3_003s10_swc_pres))
-*   Report ([PDF]({{< baseurl >}}/resources/mit3_003s10_swc_report))
+*   Poster ({{% resource_link b426d150-3e36-11b1-1ba2-cd2cb1c177ce "PDF" %}})
+*   Presentation ({{% resource_link 4113e87b-d303-2ded-173c-0196c5ffc69d "PDF" %}})
+*   Report ({{% resource_link 416a2f3d-b90e-164d-c80d-e10073deef36 "PDF" %}})
 
 "Design of Si Thin Film Solar Cell and the Basis of its Emergence as a Significant Factor in Local Electricity Power Generation."
 
-*   Poster ([PDF]({{< baseurl >}}/resources/mit3_003s10_swb_chart))
-*   Presentation ([PDF]({{< baseurl >}}/resources/mit3_003s10_swb_pres))
-*   Report ([PDF]({{< baseurl >}}/resources/mit3_003s10_swb_report))
+*   Poster ({{% resource_link 90ce7214-f4e4-079e-eed4-f231057a9071 "PDF" %}})
+*   Presentation ({{% resource_link fc4f3dc2-3c91-6a8c-98a0-1a30aac0b6f3 "PDF" %}})
+*   Report ({{% resource_link a8ad6869-ceab-29d1-321a-68b3df89c69e "PDF" %}})
 
 "Summary of Options for the Growth of Solar Electricity."
 
-*   Poster ([PDF]({{< baseurl >}}/resources/mit3_003s10_swa_chart))
-*   Presentation ([PDF]({{< baseurl >}}/resources/mit3_003s10_swa_pres))
-*   Report ([PDF]({{< baseurl >}}/resources/mit3_003s10_swa_report))
+*   Poster ({{% resource_link c940d517-27aa-9a24-b843-7e24e09d3346 "PDF" %}})
+*   Presentation ({{% resource_link 77946445-e662-a0b7-f0ef-a9de32987794 "PDF" %}})
+*   Report ({{% resource_link 5cf652e8-978e-8945-6481-6d4bd9e3ce44 "PDF" %}})
 
 
 {{< tdclose >}}
