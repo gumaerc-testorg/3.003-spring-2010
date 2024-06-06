@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains a chart related to solar electricity: problem,
   constraints and solutions.'
 file: /courses/3-003-principles-of-engineering-practice-spring-2010/e844e4fb25e8943d141ec1f0d4e9510d_MIT3_003S10_swE_chart.pdf
+file_size: 140490
 file_type: application/pdf
 learning_resource_types:
 - Projects

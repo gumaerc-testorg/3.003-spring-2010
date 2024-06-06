@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to design of thin film solar
   cells.
 file: /courses/3-003-principles-of-engineering-practice-spring-2010/a8ad6869ceab29d1321a68b3df89c69e_MIT3_003S10_swB_report.pdf
+file_size: 143726
 file_type: application/pdf
 learning_resource_types:
 - Projects

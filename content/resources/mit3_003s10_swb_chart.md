@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to making local solar powered
   electricity.
 file: /courses/3-003-principles-of-engineering-practice-spring-2010/90ce7214f4e4079eeed4f231057a9071_MIT3_003S10_swB_chart.pdf
+file_size: 125559
 file_type: application/pdf
 learning_resource_types:
 - Projects
