@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to memo.
 file: /courses/3-003-principles-of-engineering-practice-spring-2010/78e7629f65fcf56aaf280db9c5af768a_MIT3_003S10_memo.pdf
+file_size: 79177
 file_type: application/pdf
 learning_resource_types:
 - Labs

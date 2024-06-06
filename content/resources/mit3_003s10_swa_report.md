@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to growth of solar electricity.
 file: /courses/3-003-principles-of-engineering-practice-spring-2010/5cf652e8978e894564816d4bd9e3ce44_MIT3_003S10_swA_report.pdf
+file_size: 270132
 file_type: application/pdf
 learning_resource_types:
 - Projects
