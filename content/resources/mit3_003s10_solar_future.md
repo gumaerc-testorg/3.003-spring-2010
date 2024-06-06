@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to solar future.
 file: /courses/3-003-principles-of-engineering-practice-spring-2010/0de15732b7967a796b7ce78c082bd49b_MIT3_003S10_solar_future.pdf
+file_size: 165206
 file_type: application/pdf
 learning_resource_types:
 - Projects

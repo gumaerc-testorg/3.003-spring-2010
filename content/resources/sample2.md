@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource is a supporting file for project 2b: solar cell performance.'
 file: /courses/3-003-principles-of-engineering-practice-spring-2010/dea9375bd1a42f3008f83baac3da2f71_sample2.xls
+file_size: 21504
 file_type: application/vnd.ms-excel
 learning_resource_types:
 - Labs

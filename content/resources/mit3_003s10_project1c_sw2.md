@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to project 1C.
 file: /courses/3-003-principles-of-engineering-practice-spring-2010/7e035f41b39515072dcdfe0aa7f768e9_MIT3_003S10_project1C_sw2.pdf
+file_size: 326714
 file_type: application/pdf
 learning_resource_types:
 - Projects
