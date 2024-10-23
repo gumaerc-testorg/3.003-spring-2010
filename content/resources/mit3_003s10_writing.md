@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information related to writing: the basics. '
-file: /courses/3-003-principles-of-engineering-practice-spring-2010/594041110e59eb5a81ef86f576f06fee_MIT3_003S10_writing.pdf
+file: /ol-ocw-studio-app/courses/3-003-principles-of-engineering-practice-spring-2010/594041110e59eb5a81ef86f576f06fee_MIT3_003S10_writing.pdf
 file_size: 91021
 file_type: application/pdf
 learning_resource_types:
