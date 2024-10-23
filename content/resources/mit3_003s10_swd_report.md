@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to design of CdTe thin film
   solar cell.
-file: /courses/3-003-principles-of-engineering-practice-spring-2010/617d25afb5f140e9020e504ebd37e8ed_MIT3_003S10_swD_report.pdf
+file: /ol-ocw-studio-app/courses/3-003-principles-of-engineering-practice-spring-2010/617d25afb5f140e9020e504ebd37e8ed_MIT3_003S10_swD_report.pdf
 file_size: 373376
 file_type: application/pdf
 learning_resource_types:
