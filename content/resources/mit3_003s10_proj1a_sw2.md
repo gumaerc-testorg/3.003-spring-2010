@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to electricity generation
   system constraints.
-file: /ol-ocw-studio-app/courses/3-003-principles-of-engineering-practice-spring-2010/012ff3ec16d7e9fdc9c1714f143ab4da_MIT3_003S10_proj1A_sw2.pdf
+file: /courses/3-003-principles-of-engineering-practice-spring-2010/012ff3ec16d7e9fdc9c1714f143ab4da_MIT3_003S10_proj1A_sw2.pdf
 file_size: 62896
 file_type: application/pdf
 learning_resource_types:

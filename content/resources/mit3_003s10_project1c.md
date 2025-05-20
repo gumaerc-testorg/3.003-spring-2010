@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a project related to project 1C.
-file: /ol-ocw-studio-app/courses/3-003-principles-of-engineering-practice-spring-2010/6e5d31ab9eb8a0d8167a19e1eb0ab9b3_MIT3_003S10_project1C.pdf
+file: /courses/3-003-principles-of-engineering-practice-spring-2010/6e5d31ab9eb8a0d8167a19e1eb0ab9b3_MIT3_003S10_project1C.pdf
 file_size: 125586
 file_type: application/pdf
 learning_resource_types:

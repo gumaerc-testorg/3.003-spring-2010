@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to solar electricity: problem,
   constraints and solutions.'
-file: /ol-ocw-studio-app/courses/3-003-principles-of-engineering-practice-spring-2010/bac140804bcf7ef834cc3cc7692def52_MIT3_003S10_swE_pres.pdf
+file: /courses/3-003-principles-of-engineering-practice-spring-2010/bac140804bcf7ef834cc3cc7692def52_MIT3_003S10_swE_pres.pdf
 file_size: 282949
 file_type: application/pdf
 learning_resource_types:

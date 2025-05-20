@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to cdte grid solar cell.
-file: /ol-ocw-studio-app/courses/3-003-principles-of-engineering-practice-spring-2010/416a2f3db90e164dc80de10073deef36_MIT3_003S10_swC_report.pdf
+file: /courses/3-003-principles-of-engineering-practice-spring-2010/416a2f3db90e164dc80de10073deef36_MIT3_003S10_swC_report.pdf
 file_size: 652243
 file_type: application/pdf
 learning_resource_types:
