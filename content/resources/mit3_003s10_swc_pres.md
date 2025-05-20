@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to CdTe solar cell design.
-file: /ol-ocw-studio-app/courses/3-003-principles-of-engineering-practice-spring-2010/4113e87bd3032ded173c0196c5ffc69d_MIT3_003S10_swC_pres.pdf
+file: /courses/3-003-principles-of-engineering-practice-spring-2010/4113e87bd3032ded173c0196c5ffc69d_MIT3_003S10_swC_pres.pdf
 file_size: 151489
 file_type: application/pdf
 learning_resource_types:

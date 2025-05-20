@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to cdte grid connected systems.
-file: /ol-ocw-studio-app/courses/3-003-principles-of-engineering-practice-spring-2010/b426d1503e3611b11ba2cd2cb1c177ce_MIT3_003S10_swC_chart.pdf
+file: /courses/3-003-principles-of-engineering-practice-spring-2010/b426d1503e3611b11ba2cd2cb1c177ce_MIT3_003S10_swC_chart.pdf
 file_size: 384211
 file_type: application/pdf
 learning_resource_types:
