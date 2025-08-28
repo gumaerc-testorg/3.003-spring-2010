@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains a presentation related to summary of options for
   the growth of solar electricity.
-file: /courses/3-003-principles-of-engineering-practice-spring-2010/77946445e662a0b7f0efa9de32987794_MIT3_003S10_swA_pres.pdf
+file: /ol-ocw-studio-app/courses/3-003-principles-of-engineering-practice-spring-2010/77946445e662a0b7f0efa9de32987794_MIT3_003S10_swA_pres.pdf
 file_size: 206000
 file_type: application/pdf
 learning_resource_types:

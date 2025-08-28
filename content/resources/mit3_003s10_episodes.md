@@ -2,11 +2,11 @@
 content_type: resource
 description: 'This resource contains information related to different episodes like
   planning, drafting, revising, and editing. '
-file: /courses/3-003-principles-of-engineering-practice-spring-2010/a76083d7477c2f030089907f44486d54_MIT3_003S10_episodes.pdf
+file: /ol-ocw-studio-app/courses/3-003-principles-of-engineering-practice-spring-2010/a76083d7477c2f030089907f44486d54_MIT3_003S10_episodes.pdf
 file_size: 84833
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

@@ -4,7 +4,7 @@ description: This section provides information on the course labs, including req
   formatting, references, and supporting files. Activities and materials for the second
   course project are also included as they expand upon concepts covered Lab 4.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: 2182403f-7706-886b-9aea-5838d9930afd

@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: 'This resource is a supporting file for project 2b: solar cell performance.'
-file: /courses/3-003-principles-of-engineering-practice-spring-2010/51c77d872555adf6b9225260f27c1c27_mono.xls
+file: /ol-ocw-studio-app/courses/3-003-principles-of-engineering-practice-spring-2010/51c77d872555adf6b9225260f27c1c27_mono.xls
 file_size: 16384
 file_type: application/vnd.ms-excel
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
