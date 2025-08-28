@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to solar cell design and manufacturing
   [platform.
-file: /courses/3-003-principles-of-engineering-practice-spring-2010/88cf815cbc67bda858374a3aef26af41_MIT3_003S10_project1C_sw1.pdf
+file: /ol-ocw-studio-app/courses/3-003-principles-of-engineering-practice-spring-2010/88cf815cbc67bda858374a3aef26af41_MIT3_003S10_project1C_sw1.pdf
 file_size: 190129
 file_type: application/pdf
 learning_resource_types:
