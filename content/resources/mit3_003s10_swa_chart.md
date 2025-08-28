@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to solar options in a nutshell.
-file: /ol-ocw-studio-app/courses/3-003-principles-of-engineering-practice-spring-2010/c940d51727aa9a24b8437e24e09d3346_MIT3_003S10_swA_chart.pdf
+file: /courses/3-003-principles-of-engineering-practice-spring-2010/c940d51727aa9a24b8437e24e09d3346_MIT3_003S10_swA_chart.pdf
 file_size: 144085
 file_type: application/pdf
 learning_resource_types:
