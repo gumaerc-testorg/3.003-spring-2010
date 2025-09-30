@@ -108,7 +108,7 @@ Photons, Semiconductors, and Energy
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Guest Lecture: [Fred Salvucci](http://cee.mit.edu/salvucci), "History of Boston Transportation, 1630-2007."
+Guest Lecture: {{% resource_link "3ab2a94d-6aa8-4dbe-a37c-1e421a826630" "Fred Salvucci" %}}, "History of Boston Transportation, 1630-2007."
 {{< tdclose >}}
 {{< tdopen >}}
 ({{% resource_link 613e1d8a-1444-88eb-ec9d-4b8ed1da72e1 "PDF - 1.5MB" %}}) (Courtesy of Frederick Salvucci. Used with permission.)
@@ -132,7 +132,7 @@ The Solar Cell Lecture
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Guest Lecture: [Prof. Eugene Fitzgerald](http://dmse.mit.edu/faculty/profile/fitzgerald), "Platforms and Learning Curves."
+Guest Lecture: {{% resource_link "6f14c0de-0c83-48f4-a12a-0fc05a27892f" "Prof. Eugene Fitzgerald" %}}, "Platforms and Learning Curves."
 {{< tdclose >}}
 {{< tdopen >}}
 ({{% resource_link 0bca12c1-3545-7171-bb56-511be51319fd "PDF - 1.9MB" %}}) (Courtesy of Eugene Fitzgerald. Used with permission.)
@@ -146,7 +146,7 @@ Guest Lecture: [Prof. Eugene Fitzgerald](http://dmse.mit.edu/faculty/profile/fit
 {{< tdopen >}}
 
 
-Guest Lecture: [Prof. William Uricchio](http://cmsw.mit.edu/profile/william-uricchio/), "Putting Human Agency Back Into the Equation."
+Guest Lecture: {{% resource_link "93fc58fb-2fcb-4e6a-8a24-5d26a4620db0" "Prof. William Uricchio" %}}, "Putting Human Agency Back Into the Equation."
 
 Reading: "Mechanically Scanned Television," "Electronically Scanned Television," and "Television Spin-Offs and Redundancies." Chapters 5-7 in Winston, Brian. _Media Technology and Society: A History from the Telegraph to the Internet_. New York, NY: Routledge, 1998. ISBN: 9780415142304.
 
@@ -362,7 +362,7 @@ Editing of report for final project
 26
 {{< tdclose >}}
 {{< tdopen >}}
-Guest Lecture: [Prof. Christopher Weaver](http://www.convergenceculture.org/aboutc3/people.php#chris), "How To Be a Big Engineer and What You Can Do for Society."
+Guest Lecture: {{% resource_link "74d9f307-1124-4e03-91be-1fea23067faa" "Prof. Christopher Weaver" %}}, "How To Be a Big Engineer and What You Can Do for Society."
 {{< tdclose >}}
 {{< tdopen >}}
 ({{% resource_link a86a1083-bc4c-7ddb-7b12-02d9639be4ae "PDF - 4.8MB" %}}) (Courtesy of Christopher Weaver. Used with permission.)
