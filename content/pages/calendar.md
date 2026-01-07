@@ -53,7 +53,7 @@ Photons, Semiconductors, and Energy
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
-Guest Lecture: {{% resource_link "3ab2a94d-6aa8-4dbe-a37c-1e421a826630" "Fred Salvucci" %}}, "History of Boston Transportation, 1630-2007."
+Guest Lecture: [Fred Salvucci](http://cee.mit.edu/salvucci), "History of Boston Transportation, 1630-2007."
 {{< tdclose >}}{{< tdopen >}}
 Case study 2 presented
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -71,7 +71,7 @@ Case study 2 report due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
 {{< tdclose >}}{{< tdopen >}}
-Guest Lecture: {{% resource_link "93fc58fb-2fcb-4e6a-8a24-5d26a4620db0" "Prof. William Uricchio" %}}, "Putting Human Agency Back Into the Equation."
+Guest Lecture: [Prof. William Uricchio](http://cmsw.mit.edu/profile/william-uricchio/), "Putting Human Agency Back Into the Equation."
 {{< tdclose >}}{{< tdopen >}}
 Case study 3 presented
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -179,7 +179,7 @@ Project 1 final revisions due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 26
 {{< tdclose >}}{{< tdopen >}}
-Guest Lecture: {{% resource_link "74d9f307-1124-4e03-91be-1fea23067faa" "Prof. Christopher Weaver" %}}, "How To Be a Big Engineer and What You Can Do for Society."
+Guest Lecture: [Prof. Christopher Weaver](http://www.convergenceculture.org/aboutc3/people.php#chris), "How To Be a Big Engineer and What You Can Do for Society."
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
