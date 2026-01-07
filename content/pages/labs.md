@@ -82,7 +82,7 @@ Lab 3: Measure the Speed of Light ({{% resource_link 4337c3a8-263c-562d-ae94-0b0
 Lab 4: Simulation of Solar Cells ({{% resource_link 77c7988e-6141-7607-53bc-b3b65e1754bd "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-"{{% resource_link "00aab3ea-cf01-4b15-bb94-a690c276c4e9" "PC1D, v5.9." %}}" School of Photovoltaic and Renewable Energy Engineering, University of New South Wales.
+"[PC1D, v5.9.](http://www.pv.unsw.edu.au/links/products/pc1d.asp)" School of Photovoltaic and Renewable Energy Engineering, University of New South Wales.
 {{< tdclose >}}
 
 {{< trclose >}}
