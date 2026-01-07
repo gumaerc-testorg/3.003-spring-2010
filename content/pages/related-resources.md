@@ -9,11 +9,11 @@ title: Related Resources
 uid: ed9df3b2-b370-73e9-c5cc-14a6fde3b5e3
 ---
 
-{{% resource_link "77dafed6-b58b-40f1-a95b-779035b54dc2" "Selected 3.003 lecture videos from 2008" %}} on MIT World
+[Selected 3.003 lecture videos from 2008](http://web.mit.edu/tlo/documents/MIT-TLO-inventors-guide.pdf) on MIT World
 
 Inventions and Patents
 ----------------------
 
-"An Inventor's Guide to Technology Transfer at MIT." MIT Technology Licensing Office, May 2005. ({{% resource_link "77dafed6-b58b-40f1-a95b-779035b54dc2" "PDF" %}})
+"An Inventor's Guide to Technology Transfer at MIT." MIT Technology Licensing Office, May 2005. ([PDF](http://web.mit.edu/tlo/documents/MIT-TLO-inventors-guide.pdf))
 
 "Preserving Your Patent Rights." MIT Technology Licensing Office, 2006.
